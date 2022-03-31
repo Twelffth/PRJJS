@@ -1,0 +1,110 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url("https://wallpapercave.com/wp/wp6187849.png");
+}
+
+.login_div1,
+.login_div2 {
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 30%;
+    height: 150px;
+    background-color: #c6e3ad;
+}
+
+
+#player1_name,
+#player2_name {
+
+    font-weight: bold;
+    color: rgb(161, 161, 161);
+
+}
+
+#word {
+    width: 60%;
+}
+
+#ey {
+
+    color: #2a3033;
+    font-family: 'Yellowtail', cursive;
+    font-size: 350%
+
+}
+
+#login {
+
+    width: 20%;
+    background-color: #c6e3ad;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #8bb16b
+}
+
+#word_display {
+    letter-spacing: 5px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #ffffff;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.div11,
+.div22 {
+    background-color: #c6e3ad;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 30%;
+    height: 110px;
+}
+
+h3 {
+    font-family: 'Lora', serif;
+    color: #598f2c;
+}
+
+#username {
+    font-family: 'Yellowtail', cursive;
+    color: #8bb16b;
+}
+
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#number_1,
+#number_2 {
+    color:#598f2c;
+    font-weight: bold;
+}
+
+h4 {
+    color: bisque;
+    font-family: 'Akaya Kanadaka', cursive;
+    width: 100px;
+}
+
+h4:hover {
+    text-decoration: underline;
+}
+
+#player_1_name,
+#player_2_name {
+    display: inline-block;
+    margin-left: 3px;
+}
